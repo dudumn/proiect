@@ -1,0 +1,4 @@
+tkinter
+email-validator
+customtkinter
+opencv-python
